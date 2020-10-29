@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Kosko';
+    src: local('Kosko Bold'), local('Kosko-Bold'),
+        url('KoskoBold-Bold.woff2') format('woff2'),
+        url('KoskoBold-Bold.woff') format('woff'),
+        url('KoskoBold-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }
